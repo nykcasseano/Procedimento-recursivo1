@@ -1,0 +1,20 @@
+{
+  "name": "procedimento-recursivo1",
+  "version": "1.0.0",
+  "description": "Nesse exercício de nº2. O professor passa o desafio de escrever uma função que receba um número e retorne uma quantidade equivalente de \"chunks\" separadas por um \"-\" sem utilizar de forma alguma estruturas de repetição no que se entendem como (while, dowhile,for e etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nykcasseano/Procedimento-recursivo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nykcasseano/Procedimento-recursivo1/issues"
+  },
+  "homepage": "https://github.com/nykcasseano/Procedimento-recursivo1#readme"
+}
